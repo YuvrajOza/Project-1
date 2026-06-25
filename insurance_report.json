@@ -1,0 +1,30 @@
+{
+  "summary": {
+    "total_images_processed": 2,
+    "successful_analyses": 0,
+    "errors": 2,
+    "images_with_damage": 0,
+    "images_no_damage": 0,
+    "images_rejected_quality": 0,
+    "rejected_image_paths": [],
+    "average_risk_score": 0,
+    "severity_breakdown": {},
+    "image_quality_breakdown": {},
+    "high_priority_claims": 0,
+    "high_priority_images": []
+  },
+  "results": [
+    {
+      "image": "c:\\Users\\DELL\\Documents\\Project\\img_1.jpg",
+      "error": {
+        "error": "Error code: 403 - {'status': 403, 'title': 'Forbidden', 'detail': 'Authorization failed'}"
+      }
+    },
+    {
+      "image": "c:\\Users\\DELL\\Documents\\Project\\img_2.jpg",
+      "error": {
+        "error": "Error code: 403 - {'status': 403, 'title': 'Forbidden', 'detail': 'Authorization failed'}"
+      }
+    }
+  ]
+}
